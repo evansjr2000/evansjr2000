@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evansjr2000
-- 👀 I’m interested in staying alive
-- 🌱 I’m currently learning SecDevOps
+- 👀 My plan is to stay alive, or die trying
+- 🌱 My current employer labels me a DevSecOps Engineer
 - 📫 How to reach me: John.Evans97@gmail.com
 
 <!---
